@@ -28,7 +28,7 @@ class InsertionSort
  
     public static void main(String args[])
     {        
-        int arr[] = {18, 11, 15, 5, 7};
+        int arr[] = {18, 11, 15, 5, 7, 34};
  
         InsertionSort ob = new InsertionSort();        
         ob.sort(arr);
